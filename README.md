@@ -9,8 +9,7 @@ My name is Brian and I've created this README for you to follow in an organized 
 Projects
 
     Into the Depths Site
-    Movie Theater Site
-    Portfolio Website 
+    Movie Theater Site 
 
 Into the Depths Site
 
@@ -20,7 +19,3 @@ I went with my own site instead of the Space Station Site because it said to inc
 Movie Theater Site
 
 This page is an example home page for a Movie Theater that is styled using Bootstrap 4. It contains many Bootstrap components including but not limited to a navbar, jumbotron, form, cards, and dropdowns.
-
-Portfolio Website
-
-This page is my live website that I put together for potential employers. Styled using HTML and CSS. Contains a navbar, image containers, a form, and links to multiple sites.
